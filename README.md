@@ -3,7 +3,7 @@ vcsh_mr_template
 
 This is a [fork](https://github.com/RichiH/vcsh_mr_template) and isn't
 intended to be directly used like the upstream. `git clone` to a
-$HOME` subdir is fine but dropping it directly into `$HOME` is not
+`$HOME` subdir is fine but dropping it directly into `$HOME` is not
 intended currently.
 
 Note to future me: If it looks like it's just this file in here show
